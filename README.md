@@ -8,16 +8,41 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const Aashish = {
-  pronouns: "he" | "him",
-  code: [C, Python, SQL],
-  tools: [Numpy],
-  techCommunities: {
-                        AI Data Trainer: "Invisible Technologies"
-                      },
- challenge: "I am doing the #100DaysOfCode by building 100 python projects in 100 days."
+```python
+aashish = {
+    "pronouns": "he/him",
+    "tech_communities": {
+        "AI Data Trainer": "Invisible Technologies"
+    },
+    "challenge": "I am doing the #100DaysOfCode by building 100 Python projects in 100 days.",
+    
+    "skills": {
+        "programming_languages": ["C", "Python", "SQL"],
+        "libraries_and_frameworks": ["Numpy"],
+        "tools": ["Git", "VS Code", "Jupyter Notebook"]
+    },
+    ],
+    
+    "experience": [
+        {
+            "role": "AI Data Trainer",
+            "company": "Invisible Technologies",
+            "description": "Focused on image annotation and training data for AI systems."
+        },
+        {
+            "role": "Mathematics Teacher",
+            "company": "Bigyan English High School",
+            "description": "Teaching mathematics, enhancing problem-solving and logical thinking."
+        }
+    ],
+    
+    "fun_facts": [
+        "I enjoy reading nobles.",
+        "I’m a huge fan of sci-fi movies.",
+        "My goal is to get into a certain Tech company as a Machine Learning Engineer by the end of this year."
+    ]
 }
+
 ```
 
 <img src="https://cdn.pixabay.com/animation/2022/07/31/05/09/05-09-47-978_512.gif" width="60"> <em><b>Stop using i in for loops.</em>
