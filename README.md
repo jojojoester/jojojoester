@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aashish Rokka! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giffiles.alphacoders.com/145/145692.gif" width="230">
+<img align='right' src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-1548.gif" width="230">
 <p><em>Artificial Intelligence(AI) Data Trainer at <a href="https://www.invisible.co/">Invisible Technologies</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
