@@ -18,7 +18,7 @@ aashish = {
     
     "skills": {
         "programming_languages": ["C", "Python", "SQL"],
-        "Restful API's": ["FastAPI"],
+        "restful API's": ["FastAPI"],
         "libraries_and_frameworks": ["Numpy"],
         "tools": ["Git", "VS Code", "Jupyter Notebook"]
     },
