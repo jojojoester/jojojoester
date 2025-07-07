@@ -18,6 +18,7 @@ aashish = {
     
     "skills": {
         "programming_languages": ["C", "Python", "SQL"],
+        "Restful API's": ["FastAPI"],
         "libraries_and_frameworks": ["Numpy"],
         "tools": ["Git", "VS Code", "Jupyter Notebook"]
     },
@@ -28,11 +29,6 @@ aashish = {
             "role": "AI Data Trainer",
             "company": "Invisible Technologies",
             "description": "Focused on image annotation and training data for AI systems."
-        },
-        {
-            "role": "Mathematics Teacher",
-            "company": "Bigyan English High School",
-            "description": "Teaching mathematics, enhancing problem-solving and logical thinking."
         }
     ],
     
