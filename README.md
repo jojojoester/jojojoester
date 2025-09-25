@@ -8,7 +8,7 @@
 ├─────────────────────────────────────────────────────────────────────────────┤
 │  1 │ <card>                                                                 │
 │  2 │     <name>Aashish Rokka</name>                                         │
-│  3 │     <title>AI/ML Enthusiastic</title>                                   │
+│  3 │     <title>AI/ML Enthusiastic</title>                                  │
 │  4 │     <linkedin>https://linkedin.com/in/aashishrokka</linkedin>          │
 │  5 │     <email>aashishrokka3@gmail.com</email>                             │
 │  6 │     <website>https://aashishrokka.me</website>                         │
