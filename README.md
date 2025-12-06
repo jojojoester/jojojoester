@@ -11,6 +11,7 @@
 │  3 │     <title>AI/ML Enthusiastic</title>                                  │
 │  4 │     <linkedin>https://linkedin.com/in/aashishrokka</linkedin>          │
 │  5 │     <email>aashishrokka3@gmail.com</email>                             │
+|  6 |     <position>QA Engineer</position>
 │  6 │     <website>https://aashishrokka.me</website>                         │
 │  7 │ </card>                                                                │
 │  8 │                                                                        │
